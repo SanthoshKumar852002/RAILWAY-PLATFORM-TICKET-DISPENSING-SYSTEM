@@ -114,8 +114,10 @@ The Railway Platform Ticket Booking System is a web-based application that facil
 ***Will be added Soon***
 
 ## 🎗️ Team Member's
-1.SANTHOSH KUMAR.J
+1.SANTHOSH KUMAR.J 
+
 2.ASHOK VARMAN.E
+
 3.PRASAD.N
 
 ## 📜 License
