@@ -104,8 +104,6 @@ The Railway Platform Ticket Booking System is a web-based application that facil
 - **Hand Strap Option**: Users can opt for a hand strap, which is useful if the passenger is disabled or for children.
 - **Print and Logout**: After generating the ticket/hand straps, users can print them and log out.
 
-## 🎥 Video Demo
-***In Progress***
 
 ## ╰┈➤ Page Flow Diagram 
 ![flowchart](https://github.com/user-attachments/assets/0fdc431b-7870-4fdb-a4d2-a8d9653f75fc)
